@@ -2,7 +2,7 @@
 
 **Containers, rethought from the ground up.**
 
-A boxlet is a WebAssembly container: your compiled code and nothing else. It loads in a fraction of a millisecond, reaches only what you grant it, and runs beside your Linux containers under the same commands.
+A boxlet is your code compiled to WebAssembly, and nothing else: no operating system, no container. It loads in a fraction of a millisecond, reaches only what you grant it, and runs beside your Linux containers under the same commands.
 
 - **Website:** [boxlet.io](https://boxlet.io)
 - **Whitepaper:** [The future of containers isn't containers](https://boxlet.io/future-of-containers/)
